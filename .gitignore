@@ -1,0 +1,10 @@
+# api key 세팅 파일
+.env
+
+# 기타 파일 
+/data
+/*_db
+/tax_project
+
+__init__.py
+
